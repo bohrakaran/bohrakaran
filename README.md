@@ -2,14 +2,14 @@
 
 💻 Full-Stack Web Developer  
 🚀 Building real-world applications using React, Node.js & MongoDB  
-🧠 Focused on DSA, clean code, and scalable systems  
+🧠 Focused on DSA, scalable systems, and AI-based applications  
 
 ---
 
 ## 🔹 About Me
 - 🎓 B.Tech CSE Student  
-- 💡 Passionate about full-stack development  
-- 🌱 Currently improving DSA and backend skills  
+- 💡 Passionate about building real-world products  
+- 🌱 Currently improving backend & system design skills  
 - 🎯 Goal: Become a skilled Software Developer  
 
 ---
@@ -17,7 +17,7 @@
 ## 🔹 Tech Stack
 - 💻 Languages: C, C++, Java, Python, JavaScript  
 - 🌐 Frontend: HTML, CSS, Tailwind CSS, React.js  
-- ⚙️ Backend: Node.js, Express.js  
+- ⚙️ Backend: Node.js, Express.js, FastAPI  
 - 🗄️ Database: MongoDB, MySQL  
 - 🔐 Authentication: JWT  
 - 🛠 Tools: Git, GitHub, Postman, VS Code  
@@ -28,17 +28,26 @@
 
 ### 📌 Timely – Project Management System
 - Full-stack app to manage projects & tasks  
-- JWT authentication & user dashboards  
+- User dashboards, task assignment & tracking  
 
 ### 📌 SaaS AI Platform
 - AI-based app for generating text, images, audio & code  
-- Focused on API integration and UI/UX  
+- Focused on API integration and modern UI  
 
-### 📌 JWT Authentication System
-- Secure login, registration & protected routes  
+### 📌 Token Analyzer Dashboard
+- Dashboard to analyze token usage for LLM APIs  
+- Tracks usage & estimates API cost  
+- Tech: Python, FastAPI, tiktoken, React  
 
-### 📌 Salesforce Front-End Clone
-- Responsive UI inspired by Salesforce  
+### 📌 HierHeaven – AI Job Portal (Microservices)
+- Built a microservices-based job portal system  
+- Integrated authentication, job posting, and AI-based features  
+- Focused on scalable backend architecture  
+
+### 📌 School Management API
+- REST API for managing students, teachers, and records  
+- Implemented CRUD operations and structured backend logic  
+- Focused on clean API design and database handling  
 
 ---
 
@@ -52,4 +61,4 @@
 ## 🔹 Connect With Me
 📧 Email: karanbohra1112@gmail.com  
 🔗 GitHub: https://github.com/bohrakaran  
-🔗 LinkedIn: (add your link here)
+🔗 LinkedIn: https://www.linkedin.com/in/karan-singh-bohra
